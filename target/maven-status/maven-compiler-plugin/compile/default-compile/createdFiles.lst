@@ -1,0 +1,9 @@
+jpa\JpaTest.class
+jpa\Entities\Message.class
+servlets\UserInfo.class
+jpa\Entities\Ticket.class
+jpa\EntityManagerHelper.class
+jpa\Entities\Discussion.class
+jpa\Entities\Tags.class
+jpa\Entities\User.class
+servlets\MyServlet.class
